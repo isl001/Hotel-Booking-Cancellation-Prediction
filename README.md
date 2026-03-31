@@ -14,7 +14,7 @@ This project predicts whether a hotel booking will be canceled using machine lea
 Random Forest after tuning
 
 ## Deployment
-Streamlit App: (PUT YOUR LINK HERE)
+Streamlit App: (https://hotel-booking-cancellation-prediction-sclawfprj6u8ys4mrfdbeb.streamlit.app)
 
 ## Dataset
 Hotel booking dataset used for analysis and modeling.
